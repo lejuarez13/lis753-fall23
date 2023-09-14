@@ -1,0 +1,26 @@
+h1{
+    color: #de2a90;
+    font-family: verdana;
+    font-size: 72px;
+    margin-top: 0;
+    text-align: center;
+  }
+  p{
+    background: #ffbae1;
+  }
+    figure{
+    border: 3px solid black;
+    padding: 15px;
+    padding-bottom: 30x;
+  }
+  figure img{
+    width: 100%;
+    Height: auto;
+    margin-bottom: 15px;
+  }
+  p img{
+    float: right;
+    max-width: 50%;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
