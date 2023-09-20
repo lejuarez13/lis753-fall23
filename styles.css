@@ -5,10 +5,7 @@ h1{
     margin-top: 0;
     text-align: center;
   }
-  p{
-    background: #ffbae1;
-  }
-    figure{
+      figure{
     border: 3px solid black;
     padding: 15px;
     padding-bottom: 30x;
@@ -23,4 +20,22 @@ h1{
     max-width: 50%;
     margin-left: 20px;
     margin-right: 20px;
+  }
+  a {
+    font-weight: bold;
+    color: purple  
+  }
+  nav al {
+    display: flex;
+    list-style:none;
+    padding-left: 0;
+    border: 1px solid #de2a90;
+  }
+  ul li a {
+    text-decoration: none;
+    background-color: #fad7ee;
+  }
+  ul li a:hover {
+    text-decoration: underline;
+    text-decoration: #de2a90;
   }
