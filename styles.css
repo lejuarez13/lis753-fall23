@@ -21,8 +21,13 @@ h1{
     margin-left: 20px;
     margin-right: 20px;
   }
+  a {
+    font-weight: bold;
+    color:#de2a90
+  }
   nav ul {
     display: flex;
+    display: centered;
     list-style: none;
     padding-left: 0;
     border: 1px solid #de2a90;
@@ -31,11 +36,7 @@ h1{
   nav ul li {
     padding: 5px;
   }
-  nav ul li a {
-    text-decoration: none;
-    color: #de2a90;
-  }
-  nav ul li a:hover {
+   ul li a:hover {
     text-decoration: underline;
     text-decoration: white;
   }
