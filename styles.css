@@ -31,13 +31,13 @@ h1{
     padding-left: 0;
     border: 1px solid #de2a90;
   }
-  ul li a {
+  nav ul li a {
     text-decoration: none;
     background-color: #fad7ee;
     padding: 10px;
     border-bottom: 1px solid #de2a90;
   }
-  ul li a:hover {
+  nav ul li a:hover {
     text-decoration: underline;
     text-decoration: #de2a90;
   }
