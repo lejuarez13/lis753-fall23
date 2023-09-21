@@ -26,14 +26,16 @@ h1{
     list-style: none;
     padding-left: 0;
     border: 1px solid #de2a90;
+    background-color: #fad7ee;
+  }
+  nav ul li {
+    padding: 5px;
   }
   nav ul li a {
     text-decoration: none;
-    background-color: #fad7ee;
-    padding: 10px;
-    border-bottom: 1px solid #de2a90;
+    color: #de2a90;
   }
   nav ul li a:hover {
     text-decoration: underline;
-    text-decoration: #de2a90;
+    text-decoration: white;
   }
