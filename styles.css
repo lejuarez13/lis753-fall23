@@ -27,7 +27,7 @@ h1{
   }
   nav ul {
     display: flex;
-    justify-content: centered;
+    justify-content: center;
     list-style: none;
     padding-left: 0;
     border: 1px solid #de2a90;
