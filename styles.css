@@ -1,5 +1,5 @@
 h1{
-    color: #de2a90;
+    color: #4F6EC4;
     font-family: verdana;
     font-size: 72px;
     margin-top: 0;
@@ -23,14 +23,14 @@ h1{
   }
   a {
     font-weight: bold;
-    color:#de2a90;
+    color:#4F6EC4    ;
   }
   nav ul {
     display: flex;
     list-style: none;
     padding-left: 0;
-    border: 1px solid #de2a90;
-    background-color: #fce090;
+    border: 1px solid #4F6EC4;
+    background-color: #FFFFE9;
   }
   nav ul li {
     padding: 5px;
