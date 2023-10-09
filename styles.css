@@ -62,13 +62,17 @@ h1#article-title {
     padding-left: 0;
     border: 1px solid #9C1965;
     background-color: #E3BBD5;
+    justify-content: center;
+    gap: 20px;
+    text-decoration: none;
    }
   nav ul li {
     padding: 5px;
     text-align: center;
   }
    nav ul li a:hover {
-    background-color: white;
+    padding-bottom: 9px;
+    border-bottom: 3px solid #9C1965;
   }
   main{
     margin-left: 200px;
