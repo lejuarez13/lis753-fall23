@@ -60,7 +60,6 @@ h1#article-title {
     display: flex;
     list-style: none;
     padding-left: 0;
-    border: 1px solid #9C1965;
     background-color: #E3BBD5;
     justify-content: center;
     gap: 20px;
@@ -70,11 +69,14 @@ h1#article-title {
     text-align: center;
   }
   nav ul li a{
-  text-decoration: none;
+    text-decoration: none;
   }
-   nav ul li a:hover {
+  nav ul li a:hover {
     padding-bottom: 9px;
     border-bottom: 3px solid #9C1965;
+  }
+  header nav ul{
+    border: 1px solid #9C1965;
   }
   main{
     margin-left: 200px;
