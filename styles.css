@@ -54,6 +54,7 @@ h1#article-title {
   a {
     font-weight: bold;
     color:#9C1965;
+    text-align: center;
   }
   nav ul {
     display: flex;
@@ -61,8 +62,7 @@ h1#article-title {
     padding-left: 0;
     border: 1px solid #9C1965;
     background-color: #E3BBD5;
-    list-style-position: center;
-    }
+   }
   nav ul li {
     padding: 5px;
     text-align: center;
