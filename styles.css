@@ -78,3 +78,9 @@ h1#article-title {
     margin-left: 200px;
     margin-right: 200px;
   }
+  footer#page-footer {
+    padding: 32px 0;
+    margin-top: 64px;
+    text-align: center;
+    background-color: #E3BBD5;
+    color: #9C1965;
