@@ -62,6 +62,7 @@ h1#article-title {
     border: 1px solid #9C1965;
     background-color: #E3BBD5;
     float: center;
+    text-align: center;
   }
   nav ul li {
     padding: 5px;
