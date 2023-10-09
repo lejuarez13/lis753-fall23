@@ -39,13 +39,11 @@ h1#article-title {
     float: right;
     margin-left: 20px;
     margin-bottom:20px;
-    text-align: center;
   }
   figure.section-image.even{
     float: left;
     margin-right: 20px;
     margin-bottom: 20px;
-    text-align: center;
   }
   p img{
     float: right;
@@ -64,11 +62,15 @@ h1#article-title {
     border: 1px solid #9C1965;
     background-color: #E3BBD5;
     float: center;
-    text-align: center;
   }
   nav ul li {
     padding: 5px;
+    text-align: center;
   }
    nav ul li a:hover {
     background-color: white;
+  }
+  main{
+    margin-left: 200px;
+    margin-right: 200px;
   }
