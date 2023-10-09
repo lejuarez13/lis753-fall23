@@ -29,6 +29,7 @@ h1#article-title {
     background: #E3BBD5;
     border-color:#9C1965;
     color: #9C1965;
+    text-align: center;
   }
   figure.section-image{
     margin-bottom: 20px;
