@@ -1,8 +1,14 @@
-h1{
+  h1#site-title {
     color: #9C1965;
     font-family: verdana;
     font-size: 72px;
     margin-top: 0;
+    text-align: center;
+  }
+h1#article-title {
+    font-size: 48px;
+    color: #9C1965;
+    font-family: Verdana;
     text-align: center;
   }
       figure{
@@ -14,6 +20,25 @@ h1{
     width: 100%;
     Height: auto;
     margin-bottom: 15px;
+  }
+  figure.main-image{
+    background: #E3BBD5;
+    border-color:#9C1965;
+    color: white;
+  }
+  figure.section-image{
+    margin-bottom: 20px;
+    max-width: 320px;
+  }
+  figure.section-image.odd{
+    float: right;
+    margin-left: 20px;
+    margin-bottom:20px;
+  }
+  figure.section-image.even{
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
   }
   p img{
     float: right;
