@@ -1,6 +1,8 @@
+  body{
+    font-family: verdana;
+  }
   h1#site-title {
     color: #9C1965;
-    font-family: verdana;
     font-size: 72px;
     margin-top: 0;
     text-align: center;
@@ -8,11 +10,9 @@
 h1#article-title {
     font-size: 48px;
     color: #9C1965;
-    font-family: Verdana;
     text-align: center;
   }
   h2{
-    font-family: verdana;
     color:#9C1965;
   }
       figure{
