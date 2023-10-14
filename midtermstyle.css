@@ -1,0 +1,14 @@
+body{
+    font-family: lucida;
+    background-color: #f6fcc5;
+}
+h1{
+   font-size: 72px; 
+   text-align: center;
+   color: #0E5E0D;
+}
+h.sub-header{
+    font-size: 24px;
+    text-align: center;
+    color: #C11010;
+}
