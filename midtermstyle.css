@@ -15,8 +15,7 @@ h1#article-title{
 figure{
     border:3px solid #5F340C;
     padding: 18px;
-    padding-bottom: 30px;
-}
+    }
 figure img{
     width: 100%;
     height: auto;
@@ -27,11 +26,11 @@ figure.main-image{
    border-color: #5F340C;
    color: #5F340C;
    text-align: center;
+   padding-bottom: 30px;
 }
 figure.pick-apple-image{
     background-color:#BDA58C; 
     border-color: #5F340C; 
-    padding: 18px;
 }
 .location{
     border: 3px solid #C11010;
