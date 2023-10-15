@@ -5,15 +5,15 @@ body{
 h1{
    font-size: 72px; 
    text-align: center;
-   color: #0E5E0D;
+   color: #5F340C;
 }
 h1#article-title{
     font-size: 48px;
     text-align: center;
-    color:#0E5E0D
+    color:#5F340C;
 }
 figure{
-    border:3px solid #0E5E0D;
+    border:3px solid #5F340C;
     padding: 18px;
     padding-bottom: 30px;
 }
@@ -23,9 +23,9 @@ figure img{
     margin-bottom: 15px;
 }
 figure.main-image{
-   background-color: #f6fcc5; 
-   border-color: #0E5E0D;
-   color: #0E5E0D;
+   background-color:#BDA58C; 
+   border-color: #5F340C;
+   color: #5F340C;
    text-align: center;
 }
 .location{
@@ -48,7 +48,7 @@ p#variety-info{
 }
 a{
     font-weight: bold;
-    color:#0E5E0D;
+    color:#5F340C;
     text-align: center;
     font-size: 20px;
     text-transform: uppercase;
@@ -59,7 +59,7 @@ nav ul{
     padding-left:0px;
     gap: 50px;
     list-style: none;
-    background-color: #f6fcc5;
+    background-color: #BDA58C;
 }
 nav ul li{
     padding: 10px;
@@ -70,15 +70,15 @@ text-decoration: none;
 }
 nav ul li a:hover{
     padding-bottom: 9px;
-    border-bottom: 3px solid #0E5E0D;
+    border-bottom: 3px solid #5F340C;
 }
 header nav ul{
-    border: 1px solid #0E5E0D
+    border: 1px solid #5F340C;
 }
 footer#page-footer {
     padding:32px 0;
     margin-top: 64px;
     text-align: center;
-    background-color: #f6fcc5;
-    color:#0E5E0D;
+    background-color: #BDA58C;
+    color:#5F340C;
 }
