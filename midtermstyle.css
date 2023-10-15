@@ -40,9 +40,9 @@ figure.pick-apple-image{
     margin-right: 300px;
     align-items: center;
     align-content: center;
+    float: inline-end;
 }
 .dates{
-    border: 3px, solid, #C11010;
     text-align: center;
 }
 .sub-head{
