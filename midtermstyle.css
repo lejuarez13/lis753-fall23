@@ -7,6 +7,11 @@ h1{
    text-align: center;
    color: #0E5E0D;
 }
+h1#article-title{
+    font-size: 60px;
+    text-align: center;
+    color:#0E5E0D
+}
 figure{
     border:3px solid #0E5E0D;
     padding: 18px;
