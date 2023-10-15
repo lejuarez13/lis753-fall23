@@ -31,7 +31,8 @@ figure.main-image{
 .location{
     border: 3px solid #C11010;
     max-width: 600px;
-    align-items: center;
+    margin-left: 200px;
+    margin-right: 200px;
 }
 .dates{
     border: 3px, solid, #C11010;
