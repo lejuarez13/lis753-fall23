@@ -10,7 +10,7 @@ h1{
 h1#article-title{
     font-size: 48px;
     text-align: center;
-    color:#5F340C;
+    color:#C11010;
 }
 figure{
     border:3px solid #5F340C;
@@ -30,6 +30,7 @@ figure.main-image{
 }
 .location{
     border: 3px solid #C11010;
+    width: 70%;
 }
 .dates{
     border: 3px, solid, #C11010;
