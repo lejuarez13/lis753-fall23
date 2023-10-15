@@ -52,6 +52,9 @@ font-weight: bold;
 p#variety-info{
     font-style: italic;
 }
+p#contact{
+    font-style: bold;
+}
 a{
     font-weight: bold;
     color:#5F340C;
