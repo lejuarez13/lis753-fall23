@@ -35,13 +35,8 @@ figure.pick-apple-image{
 }
 .location{
     border: 3px solid #C11010;
-    max-width: 600px;
-    margin-left: 350px;
-    margin-right: 350px;
-    align-items: center;
-    align-content: center;
-    float: inline-end;
-}
+    margin: auto;
+    max-width: 500px;
 .dates{
     text-align: center;
 }
