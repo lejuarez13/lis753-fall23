@@ -37,6 +37,9 @@ p.main-info{
 text-align: center;
 font-weight: bold;
 }
+p#variety-info{
+    font-style: italic;
+}
 a{
     font-weight: bold;
     color:#0E5E0D;
