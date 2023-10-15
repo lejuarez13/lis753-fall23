@@ -28,6 +28,12 @@ figure.main-image{
    color: #0E5E0D;
    text-align: center;
 }
+.location{
+    border: 3px solid #C11010;
+}
+.dates{
+    border: 3px, solid, #C11010;
+}
 .sub-head{
     font-size: 24px;
     text-align: center;
