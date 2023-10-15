@@ -1,5 +1,5 @@
 body{
-    font-family: lucida;
+    font-family: Georgia;
     margin: 0;
 }
 h1{
@@ -21,6 +21,12 @@ figure img{
     width: 100%;
     height: auto;
     margin-bottom: 15px;
+}
+figure.main-image{
+   background-color: #f6fcc5; 
+   border-color: #0E5E0D;
+   color: #0E5E0D;
+   text-align: center;
 }
 .sub-head{
     font-size: 24px;
