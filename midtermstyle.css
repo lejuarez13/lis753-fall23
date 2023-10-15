@@ -30,8 +30,8 @@ figure.main-image{
 }
 .location{
     border: 3px solid #C11010;
-    max-width: 800px;
-    justify-content: center;
+    max-width: 600px;
+    align-items: center;
 }
 .dates{
     border: 3px, solid, #C11010;
