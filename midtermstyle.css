@@ -28,6 +28,11 @@ figure.main-image{
    color: #5F340C;
    text-align: center;
 }
+figure.pick-apple-image{
+    background-color:#BDA58C; 
+    border-color: #5F340C; 
+    padding: 18px;
+}
 .location{
     border: 3px solid #C11010;
     max-width: 600px;
