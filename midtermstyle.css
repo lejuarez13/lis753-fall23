@@ -1,6 +1,7 @@
 body{
     font-family: Verdana;
     margin: 0;
+    background-color: #FBF2B4;
   }
 h1{
    font-size: 72px; 
@@ -89,14 +90,14 @@ text-decoration: none;
 }
 nav ul li a:hover{
     padding-bottom: 9px;
-    border-bottom: 3px solid #5F340C;
+    border-bottom: 5px solid #5F340C;
 }
 header nav ul{
     border: 2px solid #5F340C;
 }
 footer#page-footer {
-    padding:32px 0;
-    margin-top: 64px;
+    padding:10px 0;
+    margin-top: 50px;
     background-color: #BDA58C;
     color:#5F340C;
 }
