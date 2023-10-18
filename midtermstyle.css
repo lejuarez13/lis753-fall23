@@ -1,7 +1,7 @@
 body{
     font-family: Verdana;
     margin: 0;
-    background-color: #FBF2B4;
+    background-color: #F9F8D0;
   }
 h1{
    font-size: 72px; 
@@ -51,20 +51,11 @@ figure.pick-apple-image{
     color: #C11010;
 }
 p.main-info{
-text-align: center;
-font-weight: bold;
+    text-align: center;
+    font-weight: bold;
 }
 p#variety-info{
     font-style: italic;
-}
-p.left{
-    font-weight: bold;
-    text-align: left;
-    margin-left: 10px;
-}
-p.right{
-    text-align: right;
-    margin-right: 10px;
 }
 a{
     font-weight: bold;
@@ -86,7 +77,7 @@ nav ul li{
     text-align: center;
 }
 nav ul li a{
-text-decoration: none;
+    text-decoration: none;
 }
 nav ul li a:hover{
     padding-bottom: 9px;
@@ -97,7 +88,17 @@ header nav ul{
 }
 footer#page-footer {
     padding:10px 0;
-    margin-top: 50px;
+    margin-top: 36px;
     background-color: #BDA58C;
     color:#5F340C;
+}
+p.left{
+    font-weight: bold;
+    text-align: left;
+    margin-left: 10px;
+}
+p.right{
+    text-align: right;
+    margin-right: 10px;
+    font-size: 9px;
 }
