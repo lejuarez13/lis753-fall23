@@ -56,8 +56,14 @@ font-weight: bold;
 p#variety-info{
     font-style: italic;
 }
-p#contact{
+p.left{
     font-weight: bold;
+    text-align: left;
+    margin-left: 10px;
+}
+p.right{
+    text-align: right;
+    margin-right: 10px;
 }
 a{
     font-weight: bold;
@@ -86,7 +92,7 @@ nav ul li a:hover{
     border-bottom: 3px solid #5F340C;
 }
 header nav ul{
-    border: 1px solid #5F340C;
+    border: 2px solid #5F340C;
 }
 footer#page-footer {
     padding:32px 0;
