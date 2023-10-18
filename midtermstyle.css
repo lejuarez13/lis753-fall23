@@ -31,6 +31,10 @@ figure.main-image{
 figure.pick-apple-image{
     background-color:#BDA58C; 
     border-color: #5F340C; 
+    color:#5F340C;
+    text-align: center;
+    padding-bottom: 30px;
+    margin-bottom: 15px;
 }
 .location{
     border: 3px solid #C11010;
