@@ -7,7 +7,6 @@ body{
 h1{
    font-size: 72px; 
    text-align: center;
-   color: #5F340C;
 }
 h1#article-title{
     font-size: 48px;
@@ -25,7 +24,6 @@ figure img{
 figure.main-image{
    background-color:#BDA58C; 
    border-color: #5F340C;
-   color: #5F340C;
    text-align: center;
    padding-bottom: 30px;
    margin-bottom: 15px;
@@ -33,7 +31,6 @@ figure.main-image{
 figure.pick-apple-image{
     background-color:#BDA58C; 
     border-color: #5F340C; 
-    color:#5F340C;
     text-align: center;
     padding-bottom: 30px;
     margin-bottom: 15px;
@@ -91,8 +88,7 @@ footer#page-footer {
     padding:10px 0;
     margin-top: 36px;
     background-color: #BDA58C;
-    color:#5F340C;
-}
+   }
 p.left{
     font-weight: bold;
     text-align: left;
@@ -101,5 +97,5 @@ p.left{
 p.right{
     text-align: right;
     margin-right: 10px;
-    font-size: 9px;
+    font-size: 10px;
 }
