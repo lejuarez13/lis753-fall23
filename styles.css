@@ -31,25 +31,34 @@ h1#article-title {
     color: #9C1965;
     text-align: center;
   }
+  @media all and (min-width: 768px){
   figure.section-image{
     margin-bottom: 20px;
     max-width: 320px;
+    }
   }
+  @media all and (min-width: 768px){
   figure.section-image.odd{
     float: right;
     margin-left: 20px;
     margin-bottom:20px;
+    }
   }
+  @media all and (min-width: 768px){
   figure.section-image.even{
     float: left;
     margin-right: 20px;
     margin-bottom: 20px;
+    }
   }
   p img{
     float: right;
-    max-width: 50%;
     margin-left: 20px;
     margin-right: 20px;
+  }
+  img{
+    max-width: 100%;
+    height: auto;
   }
   a {
     font-weight: bold;
@@ -57,12 +66,17 @@ h1#article-title {
     text-align: center;
   }
   nav ul {
-    display: flex;
     list-style: none;
     padding-left: 0;
     background-color: #E3BBD5;
-    justify-content: center;
-    gap: 20px;
+    
+   }
+   @media all and (min-width:376px){
+    nav ul {
+      display: flex;
+      justify-content: center;
+      gap: 30px;
+    }
    }
   nav ul li {
     padding: 5px;
@@ -78,9 +92,11 @@ h1#article-title {
   header nav ul{
     border: 1px solid #9C1965;
   }
+  @media all and (min-width:768px){
   main{
     margin-left: 200px;
     margin-right: 200px;
+   }
   }
   footer#page-footer {
     padding: 32px 0;
