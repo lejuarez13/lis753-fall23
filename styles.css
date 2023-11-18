@@ -1,8 +1,7 @@
   body{
-    font-family: 'Barlow Condensed', sans-serif;
-    font-family: 'Hind Siliguri', sans-serif;
-    font-family: 'Roboto Slab', serif;
-     }
+    font-family: 'Inter', sans-serif;
+    font-family: verdana;
+  }
   h1#site-title {
     color: #9C1965;
     font-size: 72px;
